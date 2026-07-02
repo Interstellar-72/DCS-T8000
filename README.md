@@ -17,6 +17,7 @@ product=Wireless Internet Camera
 
 brand=D-Link
 
+<img width="1664" height="936" alt="DCS-T8000" src="https://github.com/user-attachments/assets/e9d93391-4570-4424-975d-24c5c1f3505e" />
 
 Meine Antwort: Ja und Nein.
 
@@ -36,7 +37,6 @@ rtsp://admin:@ IP DER KAMERA /live1.sdp
 Wichtige Seiten:
 
 http://admin:@ DIE IP DER KAMERA /common/info.cgi
-<img width="1664" height="936" alt="DCS-T8000" src="https://github.com/user-attachments/assets/e9d93391-4570-4424-975d-24c5c1f3505e" />
 
 model=SmartHome Kamera Innen Basic
 
@@ -62,7 +62,7 @@ ipaddr= IP ADRESSE DER KAMERA
 
 netmask=255.255.255.0
 
-gateway=1 IP ADRESSE DES ROUTERS
+gateway= IP ADRESSE DES ROUTERS
 
 wireless=yes
 
