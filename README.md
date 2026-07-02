@@ -35,46 +35,82 @@ Wichtige Seiten:
 
 http://admin:@ DIE IP DER KAMERA /common/info.cgi
 
-<model=SmartHome Kamera Innen Basic
+model=SmartHome Kamera Innen Basic
+
 product=Wireless Internet Camera
+
 brand=D-Link
+
 version=1.00
+
 build=07
+
 hw_version=A
+
 nipca=1.9.7
+
 name=DCS-T8000
+
 location=
+
 macaddr=xx:xx:xx:xx:xx:xx
+
 ipaddr= IP ADRESSE DER KAMERA
+
 netmask=255.255.255.0
+
 gateway= IP ADRESSE DES ROUTERS
+
 wireless=yes
+
 inputs=0
+
 outputs=0
+
 speaker=no
+
 videoout=no
+
 pir=no
+
 icr=yes
+
 ir=yes
+
 mic=yes
+
 led=no
+
 td=no
+
 playing_music=no
-whitelightled=no>
+
+whitelightled=no
 
 http://admin:@ DIE IP DER KAMERA /config/datetime.cgi
 
 timeserver=0.de.pool.ntp.org
+
 timezone=2
+
 utcdate=2026-07-02
+
 utctime=09:45:16
+
 date=2026-07-02
+
 time=22:45:16
+
 dstenable=yes
+
 dstauto=yes
+
 offset=01:00
+
 starttime=3.2.0/02:00:00
+
 stoptime=11.1.0/02:00:00
+
 
 Den Timserver habe ich geändert, da der von D-Link wohl nicht mehr funktioniert.
 Das geht ganz einfach mit: http://admin:@ DIE IP DER KAMERA /config/datetime.cgi?timeserver=0.de.pool.ntp.org
