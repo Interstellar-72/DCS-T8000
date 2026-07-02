@@ -35,7 +35,7 @@ Wichtige Seiten:
 
 http://admin:@ DIE IP DER KAMERA /common/info.cgi
 
-model=SmartHome Kamera Innen Basic
+<model=SmartHome Kamera Innen Basic
 product=Wireless Internet Camera
 brand=D-Link
 version=1.00
@@ -60,7 +60,7 @@ mic=yes
 led=no
 td=no
 playing_music=no
-whitelightled=no
+whitelightled=no>
 
 http://admin:@ DIE IP DER KAMERA /config/datetime.cgi
 
