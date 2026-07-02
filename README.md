@@ -9,6 +9,9 @@ und ihnen bei einigen Ideen zu helfen.
 
 Dieses Projekt ist die D-Link Kamera von der Telekom.
 
+## Changelog
+* v0.01 (20260702) - Veröffentlichte Version
+
 model=SmartHome Kamera Innen Basic
 product=Wireless Internet Camera
 brand=D-Link
@@ -17,6 +20,7 @@ brand=D-Link
 
 Meine Antwort: Ja und Nein.
 
+## Problem
 Ich habe es geschafft, einige Funktionen herauszufinden
 Doch das wäre ohne „github.com“ nicht möglich gewesen.
 Was habe ich geschafft:
@@ -111,6 +115,6 @@ starttime=3.2.0/02:00:00
 
 stoptime=11.1.0/02:00:00
 
-
+## Lösung
 Den Timserver habe ich geändert, da der von D-Link wohl nicht mehr funktioniert.
 Das geht ganz einfach mit: http://admin:@ DIE IP DER KAMERA /config/datetime.cgi?timeserver=0.de.pool.ntp.org
