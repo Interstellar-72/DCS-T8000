@@ -24,8 +24,15 @@ Meine Antwort: Ja und Nein.
 Ich habe es geschafft, einige Funktionen herauszufinden
 
 Doch das wäre ohne „github.com“ nicht möglich gewesen.
+
 Was habe ich geschafft:
-Ich kann im Heimnetz das Video und Ton Streamen und auch das Datum konnte ich ändern. Leider geht die Uhrzeit aber noch falsch aber das ist eines der Baustellen. Bilder gehen auch im Edge wie auch das Video in Edge und Videolan.
+
+Ich kann im Heimnetz das Video und Ton Streamen und auch das Datum konnte ich ändern.
+
+Leider geht die Uhrzeit aber noch falsch aber das ist eines der Baustellen.
+
+Bilder gehen auch im Edge wie auch das Video in Edge und Videolan.
+
 Bilder ruft man auf mit:
 
 http://admin:@ DIE IP DER KAMERA /image/jpeg.cgi
