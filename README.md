@@ -29,7 +29,7 @@ Was habe ich geschafft:
 
 Ich kann im Heimnetz das Video und Ton Streamen und auch das Datum konnte ich ändern.
 
-Leider geht die Uhrzeit aber noch falsch aber das ist eines der Baustellen.
+Leider geht die Uhrzeit noch falsch - Dies ist eines der Baustellen.
 
 Bilder gehen auch im Edge wie auch das Video in Edge und Videolan.
 
